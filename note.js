@@ -44,15 +44,42 @@
 // document.getElementId("num1-el").textContent = num1
 // document.getElementId("num2-el").textContent = num2
 
+// let sumEl = document.getElementId("sum-el")
+
 // function add(){
-//     console.log("add clicked")
+//     let result = num1 + num2
+//     sumEl.textContent = "Sum: " + result
 // }
+
 // function subtract(){
-//     console.log("subtract clicked")
+//     let result = num1 - num2
+//     sumEl.textContent = "Sum: " + result
 // }
+
 // function divide(){
-//     console.log("multiply clicked")
+//     let result = num1 / num2
+//     sumEl.textContent = "Sum: " + result
 // }
+
 // function multiply(){
-//     console.log("divide clicked")
+//     let result = num1 * num2
+//     sumEl.textContent = "Sum: " + result
+// }
+
+
+// let age = 22
+// if (age < 21) {
+//     console.log("You can not enter the club! ")
+// } else {
+//     console.log("Welcome!")
+// }
+
+// let age = 100
+
+// if (age < 100) {
+//     console.log("Not eligible")
+// } else if (age === 100){
+//     console.log("Here is your birthday card from the King!")
+// } else {
+//     console.log("Not eligible, you have already gotten a card from the King!")
 // }
