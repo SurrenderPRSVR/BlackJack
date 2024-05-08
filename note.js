@@ -169,3 +169,46 @@
 //     greetingEl.textContent = sentence[i]
 // }
 
+// let player1Time = 102
+// let player2Time = 107
+
+// function getFastestRaceTime(){
+//     if (player1Time < player2Time) {
+//         return player1Time
+//     } else if(player2Time < player1Time) {
+//         return player2Time
+//     } else {
+//         return player1Time
+//     }
+// }
+
+// let fastestRace = getFastestRaceTime()
+
+// write a function that returns the total race time
+// call/invoke the function and store the returned value in a new variable
+// finally, log the variable out
+
+// let player1Time = 102
+// let player2Time = 107
+
+
+// function totalRaceTime() {
+//     return player1Time + player2Time
+// }
+
+// let totalTime = totalRaceTime()
+// console.log(totalTime)
+
+
+
+// let randomNumber = Math.random()
+// console.log(randomNumber)
+
+/* What does Math.random()do?
+
+Math.random selects a random number 
+from 0 (inclusive) to 1 (exclusive)
+
+*/
+
+
