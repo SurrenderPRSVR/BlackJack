@@ -201,8 +201,8 @@
 
 
 
-// let randomNumber = Math.random()
-// console.log(randomNumber)
+let randomNumber = Math.random() * 6
+console.log(randomNumber);
 
 /* What does Math.random()do?
 
@@ -212,3 +212,13 @@ from 0 (inclusive) to 1 (exclusive)
 */
 
 
+// How do we create a dice function?
+
+
+/*
+
+In which range will our randomNumber be now?
+From: 0.550905
+To: 4.390135
+
+*/
