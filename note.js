@@ -199,26 +199,16 @@
 // let totalTime = totalRaceTime()
 // console.log(totalTime)
 
+// let flooredNumber = Math.floor(3.45632)
+// console.log(flooredNumber)
 
 
-let randomNumber = Math.random() * 6
-console.log(randomNumber);
+// let randomNumber = Math.floor( Math.random() * 6) + 1
+// console.log(randomNumber)
 
-/* What does Math.random()do?
+// function rollDice() {
+//     let randomNumber = Math.floor( Math.random() * 6 ) + 1;
+//     return randomNumber
+// }
 
-Math.random selects a random number 
-from 0 (inclusive) to 1 (exclusive)
-
-*/
-
-
-// How do we create a dice function?
-
-
-/*
-
-In which range will our randomNumber be now?
-From: 0.550905
-To: 4.390135
-
-*/
+// console.log(rollDice())
