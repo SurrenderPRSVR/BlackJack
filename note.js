@@ -212,3 +212,57 @@
 // }
 
 // console.log(rollDice())
+
+// let hasCompletedCourse = true
+// let givesCertificate = true
+
+// if (hasCompletedCourse === true && givesCertificate === true) {
+//     generateCertificate()
+// }
+
+// function generateCertificate() {
+//     console.log("Generating certificate....")
+// }
+
+// let hasSolvedChallenge = false
+// let hasHintsLeft = false
+
+// if( hasSolvedChallenge === false && hasHintsLeft === false) {
+//     showSolution()
+// }
+
+// function showSolution() {
+//     console.log("Showing the solution....")
+// }
+
+// let likesDocumentaries = true
+// let likesStartups = false
+
+// if (likesDocumentaries === true || likesStartups === true) {
+//     recommendMovie()
+// }
+
+// function recommendMovie() {
+//     console.log("Hey, check out this new film we think you will like!")
+
+// let course = {
+//     title: "Learn CSS Grid for free",
+//     lessons: 16,
+//     creator: "Per Harald Borgen",
+//     length: 63,
+//     level: 2,
+//     isFree: true,
+//     tags: ["html", "css"]
+// }
+
+// console.log(course.tags)
+
+let castleResort = {
+    location: "Ireland",
+    isFree: false,
+    cost: 120,
+    tags: ["lockness", "cliffs"]
+}
+
+console.log(castleResort.tags)
+console.log(castleResort.location)
